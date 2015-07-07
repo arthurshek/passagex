@@ -1,0 +1,51 @@
+
+body {
+	font-family: 'Open Sans', sans-serif !important;
+	background-color: #F9F9F9;
+}
+
+h1, h2, h3, h4, h5, p {
+		font-family: 'Open Sans', sans-serif !important;
+}
+
+h4 {
+	padding-top: 10px;
+}
+
+/*.orbit-container {
+	padding-top: 40px;
+}*/
+
+.fi-social-facebook, .fi-social-instagram, .fi-social-twitter, .fi-social-google-plus {
+	font-size: 40px;
+	color: #FFFFFF;
+}
+
+.fi-torsos-all, .fi-clipboard-notes, .fi-lightbulb {
+	font-size: 80px;
+	color: #1F4F6E;
+}
+
+.top-bar {
+	background-color: #1F4F6E;
+}
+
+.color2 {
+	background-color: #D3DAFF;
+}
+
+.color3 {
+	background-color: #8F98CB;
+}
+
+.footer {
+	background-color: #383838;
+	color: #FFFFFF;
+}
+
+.footer a {
+	color: #FFFFFF;
+}
+
+
+
